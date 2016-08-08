@@ -1,0 +1,1 @@
+CXF JAX-RS using CDI running in a standalone Java Container
